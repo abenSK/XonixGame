@@ -1,6 +1,5 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Represents a field square in the game. Methods include attributes of a game field. 
  */
 package a4.gameObjects;
 
