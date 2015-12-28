@@ -86,13 +86,6 @@ public class ButtonPanel extends JPanel {
 
 
         /* Add buttons to the panel*/
-        //this.add(addSmartBomb);
-        //this.add(carHitBomb);
-        //this.add(carHitBall);
-        //this.add(carHitTicket);
-        //this.add(carOwnsSquare);
-        //this.add(tickButton);
-        //this.add(switchStrategy);  
         add(this.pauseButton);
         add(this.commandDeleteButton);
         this.add(Myquit);
