@@ -1,4 +1,4 @@
-/* This class is used to hid the way objects are stored.
+/* This class is used to hide the way objects are stored.
  * 
  * It is able to iterate, add or remover to/from the collection.
  * Any outside class is unaware of how the game objects will be stored. 
