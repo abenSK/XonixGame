@@ -180,12 +180,7 @@ public class Game extends JFrame implements MouseListener, MouseMotionListener, 
         commands.add(ballAdd);
         commands.add(bomb);
         commands.add(ticketAdd);
-        //commands.add(ballCollision);
-        //commands.add(bombCollision);
-        //commands.add(ticketHit);
-        //commands.add(ownSquare);
         commands.add(ownSquares);
-        //commands.add(changeStrategy);
 
         file.add(new JMenuItem(about));
         file.add(new CommandQuit());
